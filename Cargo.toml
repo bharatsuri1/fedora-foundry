@@ -1,0 +1,8 @@
+[package]
+name = "fedora-foundry"
+version = "0.1.0"
+edition = "2021"
+publish = false
+description = "A terminal helper for building custom Fedora live ISOs"
+
+[dependencies]
